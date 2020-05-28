@@ -1,6 +1,6 @@
 /*****************************************************************************************
 * Lviv'2020 // ACM // Kotlin functional programming(by quicksort implementation example) *
-*    file: acmiwforhw24.kt                                                               *
+*    file: acmiwforhw23.kt                                                               *
 ******************************************************************************************/
 val INPUT_DATA = intArrayOf( 5, 7, 3, 4, 1, 9, 2, 8, 10, 6 )
 
